@@ -1,5 +1,4 @@
 # hand-written-digits-classification
-hand written digits classification usin mnist dataset and tensorflow
 
 Handwritten Digit Classification using MNIST dataset and TensorFlow
 
@@ -7,11 +6,7 @@ This repository contains a simple Python script that uses the TensorFlow library
 
 The script loads the data, normalizes it, creates a simple feedforward neural network with an input layer, a hidden layer, and an output layer, compiles the model with a loss function and optimizer, trains the model on the training data, and then evaluates the model on the test data.
 
-Getting Started
-
-These instructions will help you get the project running on your local machine.
-
-Prerequisites
+Prerequisites:
 
 You need to have TensorFlow and Numpy installed on your system.
 
@@ -27,6 +22,6 @@ TensorFlow - The deep learning library used
 
 Numpy - The numerical computation library
 
-Author
+Author:
 
 Barani.V.A - BaraniVA
