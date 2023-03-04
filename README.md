@@ -22,6 +22,6 @@ TensorFlow - The deep learning library used
 
 Numpy - The numerical computation library
 
-Author:
+Credits
 
-Barani.V.A - BaraniVA
+This program was created by BaraniVA. If you have any questions or suggestions, please contact me at baranianandakumar2003@gmail.com.
